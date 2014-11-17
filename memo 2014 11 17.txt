@@ -1,0 +1,6 @@
+memo fupeng 2014 11 17
+where to downlaod sourcetree ? bitbucket.org
+goal: 
+图像处理 后面实现，先实现一些 语音 文字 多媒体 交互
+建议 大文件 放在 七牛云存储 
+网站服务器 只存储 基本信息 以及 大文件的链接
