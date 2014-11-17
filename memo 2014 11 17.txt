@@ -4,3 +4,8 @@ goal:
 图像处理 后面实现，先实现一些 语音 文字 多媒体 交互
 建议 大文件 放在 七牛云存储 
 网站服务器 只存储 基本信息 以及 大文件的链接
+
+ttps://github.com/zha8035/cancer_website_fupeng_group.git 这是你们项目的github地址
+publickey 给我 或自己加进去
+注册一个 百度开发者 账号， 上面可以放java项目，可以与赵奋强交流
+我们教研室的 服务器也可以用需要的话。
